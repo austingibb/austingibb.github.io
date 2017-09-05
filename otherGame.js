@@ -1,4 +1,4 @@
-var x, y, ctx;
+var x = 0, y = 0, ctx;
 
 function init() {
 	var c = document.getElementById("myCanvas");
